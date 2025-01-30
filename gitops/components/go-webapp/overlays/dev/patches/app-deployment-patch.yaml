@@ -10,4 +10,4 @@ spec:
     spec:
       containers:
         - name: go-webapp-container
-          image: quay.io/jpolonip/go-argocd-workshop:dev-7b481465baef87837e4c1e9e12af23191f18c079
+          image: quay.io/jpolonip/go-argocd-workshop:dev-954b64426aa5622470d6254217bf512f441b29eb
